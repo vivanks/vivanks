@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **vivanksharma@ymail.com**
 
-- ⚡ Fun fact **PyTorch over Tensor flow **
+- ⚡ Fun fact **PyTorch over Tensorflow**
 
 <p align="center">
 <img src="https://api.iconify.design/logos:azure-icon.svg" alt="android" width="40" height="40"/>
