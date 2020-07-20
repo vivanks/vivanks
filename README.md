@@ -21,6 +21,7 @@
 - ⚡ Fun fact **PyTorch over Tensor flow **
 
 <p align="center">
+<img src="https://api.iconify.design/logos:azure-icon.svg" alt="android" width="40" height="40"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
 <img src="https://api.iconify.design/logos-pytorch.svg" alt="pytorch" width="40" height="40"/>
 <img src="https://api.iconify.design/logos-tensorflow.svg" alt="pytorch" width="40" height="40"/>
