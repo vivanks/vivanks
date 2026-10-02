@@ -44,7 +44,7 @@ Before Microsoft, I spent five years as a backend engineer, mostly in **Java and
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,go,java,spring,kafka,aws,docker,terraform,postgres,mysql&perline=12" alt="C#, .NET, Python, Go, Java, Spring, Kafka, AWS, Docker, Terraform, PostgreSQL, MySQL"/>
 </p>
 
-- **AI:** LLM application development, AI agents
+- **AI engineering:** LLMs, AI agents, tool / function calling, RAG, prompt &amp; context engineering, embeddings &amp; vector search, LLM evaluation, Responsible AI
 - **Languages:** C# / .NET, Python, Go, Java, C++
 - **Backend:** Spring Boot, REST APIs, microservices, JPA / Hibernate
 - **Data & messaging:** Kafka, AWS SQS, PostgreSQL, MySQL
