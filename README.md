@@ -1,7 +1,7 @@
 <h1 align="center">Vivank Sharma</h1>
 
 <p align="center">
-  Software Engineer at <b>Microsoft</b>, building AI agents for Copilot<br/>
+  Software Engineer at <b>Microsoft</b>, working on the Copilot app<br/>
   Java &amp; distributed systems background · Bengaluru, India
 </p>
 
@@ -12,15 +12,16 @@
 
 ## About
 
-I build two agent workflows in Microsoft Copilot: **Diagnostics**, which troubleshoots errors on your machine, and **Files**, which manages your files. I work mostly in **.NET, Python and Go**.
+I'm a software engineer on the **Microsoft Copilot app**. I work on the **Diagnostics** and **Files** capabilities, which let Copilot troubleshoot problems on your machine and work with your files. I work mostly in **.NET, Python and Go**.
 
 Before Microsoft, I spent five years as a backend engineer, mostly in **Java and Spring Boot**: high-traffic banking services at JPMorgan Chase, and backup and recovery systems at Dell. That background shapes how I build AI features. Reliability, observability and graceful failure matter just as much when there's an LLM in the loop.
 
 ## Experience
 
 **Microsoft** · 2026 – present
-- **Diagnostics agent:** helps users troubleshoot errors, from missing dependencies to major system issues, and fix them
-- **Files agent:** helps users manage their files: editing, sorting, grouping and everything else they'd expect Copilot to do with files
+- Software engineer on the Copilot app, building its Diagnostics and Files capabilities
+- **Diagnostics:** lets Copilot troubleshoot errors, from missing dependencies to major system issues, and fix them
+- **Files:** lets Copilot manage files: editing, sorting, grouping and everything else users expect it to do with files
 - LLM and AI development across .NET, Python and Go
 
 **JPMorgan Chase** · 2025 – 2026
