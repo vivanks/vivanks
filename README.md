@@ -1,104 +1,74 @@
-<h1 align="center">Hi 👋, I'm Vivank Sharma</h1>
-<h3 align="center">AI Systems & Distributed Backend Engineer | Unified Copilot @ Microsoft</h3>
+<h1 align="center">Vivank Sharma</h1>
 
 <p align="center">
-  <em>Bridging the worlds of <strong>Mission-Critical Distributed Systems</strong> & <strong>Agentic AI / LLM Intelligence</strong></em>
+  Software Engineer at <b>Microsoft</b>, building AI agents for Unified Copilot<br/>
+  Java &amp; distributed systems background · Bengaluru, India
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vivanks"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hey.vivank@gmail.com"><img src="https://img.shields.io/badge/Email-hey.vivank%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/vivanks"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=vivanks&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://linkedin.com/in/vivanks"><img src="https://img.shields.io/badge/LinkedIn-vivanks-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:hey.vivank@gmail.com"><img src="https://img.shields.io/badge/Email-hey.vivank%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
+## About
 
-## ⚡ The Hyperfusion: Distributed Systems ✕ Agentic AI
+I work on the **diagnostic** and **files** agent capabilities in Microsoft's Unified Copilot, mostly in **.NET, Python and Go**, building LLM-powered features.
 
-I engineer at the intersection of **enterprise-grade distributed architectures** and **cutting-edge autonomous AI agents**.
+Before Microsoft, I spent five years as a backend engineer, mostly in **Java and Spring Boot**: high-traffic banking services at JPMorgan Chase, and backup and recovery systems at Dell. That background shapes how I build AI features. Reliability, observability and graceful failure matter just as much when there's an LLM in the loop.
 
-My engineering foundation is built on high-concurrency, low-latency distributed systems—powering banking infrastructure, handling thousands of TPS, and processing millions of daily event-driven messages with **Java, Spring Boot, Kafka, and AWS**. 
+## Experience
 
-Today at **Microsoft**, I fuse that systems rigor into the **Unified Copilot ecosystem**, engineering intelligent **diagnostic agents** and **files agent capabilities** powered by LLMs across **.NET, Python, and Go**.
+**Microsoft** · 2026 – present
+- Diagnostic and files agent capabilities for Unified Copilot
+- LLM and AI development across .NET, Python and Go
 
-> **"Scale-tested distributed reliability meets next-generation LLM reasoning."**
+**JPMorgan Chase** · 2025 – 2026
+- Spring Boot microservices for the Chase website backend, serving external account features at thousands of TPS
+- External Account Linking: account verification, state management and failure retries
+- Event-driven processing with Kafka and AWS SQS for millions of account and transaction notifications a day
+- AWS (EC2, S3, Lambda) deployments provisioned with Terraform
 
----
+**Dell Technologies** · 2021 – 2025
+- Active Directory granular recovery in PowerProtect Data Manager (LDAP, C++, Java)
+- Bare Metal Recovery and file-system protection workflows: 25% better performance, 30% faster recovery
+- Led development of Hyper-V backup and recovery services (Java, Spring Boot, REST)
 
-## 🏢 Experience & Impact
+**Novartis** · 2021
+- Automation pipeline for test monitoring, reporting and analysis
+- Internal Python library for code reuse and automated data migration
 
-### 🚀 Microsoft — *Unified Copilot*
-*Building core diagnostic and files agent capabilities that bring intelligent context and autonomous troubleshooting to developers worldwide.*
-- **Diagnostic Agents:** Engineering AI-driven diagnostic workflows that analyze runtime telemetry, inspect anomalies, parse logs and traces, and synthesize autonomous remediation strategies.
-- **Files Agent Capabilities:** Architecting deep workspace and filesystem agent capabilities—enabling LLMs to comprehend, search, navigate, and edit codebases with precise semantic and structural context.
-- **Agentic AI & LLM Systems:** Developing tool-use protocols, multi-agent coordination, prompt orchestration, and evaluation frameworks across **.NET (C#)**, **Python**, and **Go**.
+## Tech
 
-### 🏛️ JPMorgan Chase & Co. — *Software Engineer 2*
-*High-traffic banking backend & resilient event-driven systems.*
-- Engineered core **Spring Boot** microservices handling **thousands of TPS** for external account linking workflows on the Chase Bank web platform.
-- Scaled event-driven pipelines on **Kafka** and **AWS SQS** processing millions of asynchronous account events & transaction updates per day.
-- Implemented state-machine persistence, automated retries, and fault-tolerant account verification flows for mission-critical banking operations.
-- Built cloud deployments on **AWS (EC2, S3, Lambda)** with **Terraform (IaC)**.
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,go,java,spring,kafka,aws,docker,terraform,postgres,mysql&perline=12" alt="C#, .NET, Python, Go, Java, Spring, Kafka, AWS, Docker, Terraform, PostgreSQL, MySQL"/>
+</p>
 
-### 🛡️ Dell Technologies — *Software Engineer 2*
-*Enterprise data protection, disaster recovery, and virtualization.*
-- Developed backend recovery workflows for **Bare Metal Recovery (BMR)** and filesystem protection in PowerProtect Data Manager (Java, C++), improving system performance by **25%** and reducing recovery time by **30%**.
-- Led backend services for **Hyper-V** virtualization backup and recovery using **Java, Spring Boot, and REST APIs**.
-- Designed and built Active Directory granular object recovery integrated with LDAP.
+- **AI:** LLM application development, AI agents
+- **Languages:** C# / .NET, Python, Go, Java, C++
+- **Backend:** Spring Boot, REST APIs, microservices, JPA / Hibernate
+- **Data & messaging:** Kafka, AWS SQS, PostgreSQL, MySQL
+- **Cloud & tooling:** AWS, Docker, Terraform, CI/CD
 
----
+## Projects
 
-## 🛠️ Tech Stack & Ecosystem
+- **Distributed File System Simulator**: Java simulator for studying replication, fault tolerance and consistency across nodes
+- **Automated Data Ingestion Pipeline**: Python pipeline loading data from multiple sources into MySQL, cutting processing time by 50%
+
+## Publications
+
+7 peer-reviewed publications. Selected IEEE papers:
+
+- [Machine Learning based Predictive Analysis for Failure of Monitored Control System](https://ieeexplore.ieee.org/document/8987843)
+- [Performance Analysis of the Classifiers for Optical Character Recognition](https://ieeexplore.ieee.org/document/9065710)
+- [Design and Algorithms of the Device to Predict Blood Glucose Level based on Saliva Sample using Machine Learning](https://ieeexplore.ieee.org/document/8987866)
+- [Drone Detection Mechanism using Radiocommunication Technology and Internet Protocol Address](https://ieeexplore.ieee.org/document/8987972)
+- [Crop Analysis and Seed Marketing using Regression and Association Rules of India](https://ieeexplore.ieee.org/document/9077587)
+
+## Education & certifications
+
+- B.Tech, Information Technology, Vellore Institute of Technology (2017 – 2021)
+- AWS Certified Cloud Practitioner
 
 <p align="center">
-  <img src="https://api.iconify.design/logos:java.svg" width="38" alt="Java"/>&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:spring-icon.svg" width="38" alt="Spring Boot"/>&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:c-sharp.svg" width="38" alt="C#"/>&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:dotnet.svg" width="38" alt="DotNet"/>&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:python.svg" width="38" alt="Python"/>&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:go.svg" width="38" alt="Go"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apachekafka.svg" width="38" alt="Kafka"/>&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:aws.svg" width="38" alt="AWS"/>&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:docker-icon.svg" width="38" alt="Docker"/>&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:terraform-icon.svg" width="38" alt="Terraform"/>&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:postgresql.svg" width="38" alt="PostgreSQL"/>&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:mysql.svg" width="38" alt="MySQL"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vivanks&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats"/>
 </p>
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **AI & Agentic Systems** | LLM Orchestration, Autonomous Diagnostic Agents, Files & Codebase Agents, Tool Calling, Multi-Agent Systems, Context Grounding |
-| **Languages** | Java, Python, Go, C# (.NET), C/C++, SQL |
-| **Backend & Microservices** | Spring Boot, Spring MVC, .NET Core, REST APIs, Microservices, JPA / Hibernate, Concurrency & Multithreading |
-| **Distributed Systems & Messaging** | Apache Kafka, AWS SQS, Event-Driven Architecture, High-Throughput / Low-Latency Systems |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Docker, Terraform (IaC), CI/CD Pipelines |
-| **Databases & Storage** | PostgreSQL, MySQL, Distributed Storage, Query Optimization |
-| **Core Computer Science** | Distributed Systems Design, Algorithms & Data Structures, High-Scale Concurrency, Fault Tolerance |
-
----
-
-## 🔬 Featured Engineering & Research
-
-- **Unified Copilot Diagnostic & Files Agents:** Architecting LLM-driven developer intelligence, intelligent workspace file navigation, and diagnostic automation.
-- **Distributed File System Simulator:** Java-based distributed systems simulator modeling consensus, data replication, partitioned node failures, and consistency trade-offs.
-- **Automated Data Ingestion Pipeline:** Python & MySQL high-throughput data ingestion pipeline delivering a 50% reduction in processing latency.
-- **Academic Research:** Author of **7 peer-reviewed research publications** indexed on [Google Scholar](https://scholar.google.com).
-- **Certifications:** AWS Certified Cloud Practitioner.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivanks&show_icons=true&hide_title=true&count_private=true" alt="Vivank's GitHub Stats" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-- 📧 **Email:** [hey.vivank@gmail.com](mailto:hey.vivank@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/vivanks](https://linkedin.com/in/vivanks)
-- 🐙 **GitHub:** [github.com/vivanks](https://github.com/vivanks)
-- 📍 **Location:** Bengaluru, India
